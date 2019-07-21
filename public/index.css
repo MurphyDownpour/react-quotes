@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    background-color: pink;
+    color: pink;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: .7s all ease-in-out;
+}
